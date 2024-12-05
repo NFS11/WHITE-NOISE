@@ -5,7 +5,7 @@ I made WHITE NOISE because I thought a game based off A Quiet Place would've bee
 
 How to play:
 
-WHITE NOISE uses save files. The savefile is a .json which is is located in the PWD of the base game. I have made it so that you can save and quit. When you save and quit the savefile is made. You can load it when you open it again. To make it slightly harder, it is kind of random and when you die, the save file is wiped.
+WHITE NOISE uses save files. The savefile is a .json which is is located in the PWD of the base game. I have made it so that you can save and quit. When you save and quit the savefile is made. You can load it when you open it again. To make it slightly harder, it is kind of random and when you die, the save file is wiped. It is a multiple choice game so there are 5 options on every turn.
 
 How do I start the game?
 
