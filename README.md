@@ -13,6 +13,6 @@ Just open the .py file. It doesn't matter if it is opened in IDLE or the Shell.
 
 The game lasts 20 turns. Your goal is to either survive to the full 20 turns or get the highest amount of turns survived.
 
-I hope you enjoy this game just as much as I enjoyed playing it! When I release the full length game I will make it better and longer. I will also remove the save file deleting thing lol.
+I hope you enjoy this game just as much as I enjoyed making it! When I release the full length game I will make it better and longer. I will also remove the save file deleting thing lol.
 
 Remember if there is anything you'd like for me to add just ask through Issues and same goes for issues or help. Please consider leaving a star!
